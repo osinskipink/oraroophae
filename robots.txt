@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeshisheir.michaelboke.nl/sitemap.xml
